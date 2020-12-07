@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "165001707909",
+    "firebase_url": "https://bookeeda-275317.firebaseio.com",
+    "project_id": "bookeeda-275317",
+    "storage_bucket": "bookeeda-275317.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165001707909:android:383e6f4ffe7021c91e04ec",
+        "android_client_info": {
+          "package_name": "com.bookeeda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165001707909-1v69kjchairl7gm3pta2gsqr8pfklemr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bookeeda",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "165001707909-t7b5c5cmjugsephj4pr2saiieg9fhsaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlRkcaLhA4OAcPnyqK-T_1tVyq_aj_p-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165001707909-t7b5c5cmjugsephj4pr2saiieg9fhsaq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
